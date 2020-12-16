@@ -63,6 +63,7 @@ div.text{
 
 span#tm {
     font-size: 134px;
+    width: 100%;
     color: #fff91c;
     border: solid #60608e 8px;
     border-radius: 60px;
